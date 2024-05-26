@@ -56,6 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 Thank you for visiting our project! We hope you find the AI-Powered Text Summarization Tool helpful and easy to use!
 ```
 
+
 ### Key Elements:
 - **Introduction:** Briefly describes the tool and its target audience.
 - **Features:** Details what makes the tool useful and distinctive.
@@ -67,3 +68,4 @@ Thank you for visiting our project! We hope you find the AI-Powered Text Summari
 - **Acknowledgments:** Optional section to thank contributors and inspirations.
 
 This README is designed to be both informative and welcoming, ensuring that users of all levels can understand and appreciate the tool's capabilities.
+
